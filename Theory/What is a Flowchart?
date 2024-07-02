@@ -1,0 +1,14 @@
+                                                FlowChart
+
+• Flowchart is used to show the flow of control of a program
+• Flowchart is used to understand the program and its working
+• It first take some input , process it and give output.
+ 
+An example of Flowchart , for adding two numbers is
+
+Start
+Print “Enter 2 no”
+Read a,b
+C <- a + b
+Print ” Sum is ” , c
+Stop

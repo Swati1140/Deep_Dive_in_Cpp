@@ -1,0 +1,19 @@
+Algorithm
+• Algorithm is a step by step process for solving a computational problem
+• programming is also same however , algorithms is something we write first
+before converting it (solution) into a program so, that our machines can
+understand it.
+• The procedure used for solving various problems are called algorithm
+• Pseudo code is something which can be written in any language (programming
+, syntax or pure English ) this is used just for understanding algorithm
+Ex of algorithm:
+Algorithm Average( List , n )
+{
+Sun <- 0;
+For each element x in list
+Begin
+Sum <- sum + x;
+End;
+Avg <- sum/n;
+Return avg;
+}

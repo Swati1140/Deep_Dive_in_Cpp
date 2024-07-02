@@ -1,0 +1,34 @@
+                             Steps Involve in the Development & Execution of program
+
+• The main steps involved in the development and execution of a program are
+1. Editing
+2. Compiling
+3. Linking Libraries
+4. Loading
+5. Execution
+
+• Editing
+
+- Editing can be done on any text editor / Integrated Development Environment
+(IDE) so, that all the above steps can be done at one place.
+
+• Compiling
+
+- Compiler will convert the source code into a machine code if there are no errors
+in the program
+
+• Linking Libraries
+
+- For various operations build in functions / classes are available in c++ that are
+present in the header files supported by libraries where machine code is readily
+available to use
+
+• Loading
+
+- For running the program it should be brought into the main memory from the
+hard disk for getting it executed this is called LOADING
+
+• Execution
+
+- Once the code is in the main memory OS will ask the CPU to execute the
+program thus the execution process starts.
